@@ -1,0 +1,7 @@
+id=HiResAudioPatcher
+name=Hi-Res Audio Patcher
+version=v0.0.1-alpha
+versionCode=230722
+author=legend_minded
+description=Enables Hi-Res audio format PCM 24-bit-packed to deep buffer output by patching audio policy.
+updateJson=https://raw.githubusercontent.com/legend-minded/Hires-Audio-Patcher/main/update.json
